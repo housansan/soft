@@ -1,0 +1,44 @@
+{
+    "workbench.colorTheme": "Solarized Dark",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.cproject": true,
+        "**/.gitignore": true,
+        "**/*.64.d": true,
+        "**/*.64.o": true,
+        "**/*.so": true
+    },
+
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/*.o": true,
+        "**/*.d": true,
+        "**/*.so": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.cproject": true,
+        "**/.gitignore": true,
+        "**/*.64.d": true,
+        "**/*.64.o": true,
+    },
+
+    "editor.fontSize": 18,
+    "workbench.startupEditor": "newUntitledFile",
+    "markdown.preview.fontSize": 18,
+    "http.proxy": "http://proxy.tencent.com:8080",
+    "workbench.editor.enablePreview": false,
+    "sync.gist": "87c9546f96b62477843fb68db5d4cceb",
+    "sync.quietSync": false,
+    "sync.removeExtensions": true,
+    "sync.syncExtensions": true,
+    "sync.autoDownload": false,
+    "sync.autoUpload": false,
+    "sync.forceDownload": false
+}
